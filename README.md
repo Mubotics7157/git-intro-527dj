@@ -148,6 +148,9 @@ Note: the assignment below was written using AI, so feel free to utilize it heav
 
    - Your PR updates automatically.
 
+9. **Whats up gang**
+   - Bye bye now
+
 ---
 
 ## Submission Template (intro.md)
